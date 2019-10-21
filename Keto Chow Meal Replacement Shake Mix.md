@@ -29,7 +29,7 @@ suki: 8/10
 
 ## Rating Thoughts
 
-- 1:
+- 1: Never again, 'literal' shit
 - 2:
 - 3:
 - 4: Torn, confused, might want to like it, or maybe it makes you feel sick
@@ -38,4 +38,4 @@ suki: 8/10
 - 7:
 - 8: Could possibly have it every day, maybe require a secondary flavor
 - 9: Defitely could have it every day, might not want it literally every meal
-- 10: This is my new life
+- 10: This is my new life, gonna tell the world about it
