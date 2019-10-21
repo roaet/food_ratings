@@ -12,6 +12,7 @@
 ```
 roaet: 6/10
 suki: 6/10
+```
 
 ### Strawberry
 
