@@ -1,13 +1,15 @@
 # Keto Chow - Meal Replacement Shake Mix
 
+A variety pack is available on amazon. I highly doubt we will ever want to use Avocado Oil (AO) as we tend to enjoy heavy whipping cream (HWC).
+
 ## Flavor Ratings (Summary)
 
-- Snickerdoodle: 6/10
-- Strawberry: 8.5/10
+- Snickerdoodle (HWC): 6/10
+- Strawberry (HWC): 8.5/10
 
 ## Flavor Commentary
 
-### Snickerdoodle
+### Snickerdoodle (Heavy Whipping Cream)
 
 ```
 roaet: 6/10
@@ -16,7 +18,7 @@ suki: 6/10
 
 > I am very aware this is a protein shake of some sort; not even surprised, maybe disappointed - roaet
 
-### Strawberry
+### Strawberry (Heavy Whipping Cream)
 
 ```
 roaet: 9/10
