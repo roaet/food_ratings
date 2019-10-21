@@ -4,7 +4,7 @@ A variety pack is available on amazon. I highly doubt we will ever want to use A
 
 ## Flavor Ratings (Summary)
 
-- Snickerdoodle (HWC): 6/10
+- Snickerdoodle (HWC): 5/10
 - Strawberry (HWC): 8.5/10
 
 ## Flavor Commentary
@@ -12,7 +12,7 @@ A variety pack is available on amazon. I highly doubt we will ever want to use A
 ### Snickerdoodle (Heavy Whipping Cream)
 
 ```
-roaet: 6/10
+roaet: 6 -> 4/10 ; Dropped from 6 to 4 because started feeling gross after finishing it all
 suki: 6/10
 ```
 
@@ -32,8 +32,8 @@ suki: 8/10
 - 1:
 - 2:
 - 3:
-- 4:
-- 5:
+- 4: Torn, confused, might want to like it, or maybe it makes you feel sick
+- 5: 
 - 6: Like it more than dislike it, but would rather have something else
 - 7:
 - 8: Could possibly have it every day, maybe require a secondary flavor
