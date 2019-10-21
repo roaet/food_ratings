@@ -14,12 +14,16 @@ roaet: 6/10
 suki: 6/10
 ```
 
+> I am very aware this is a protein shake of some sort; not even surprised, maybe disappointed - roaet
+
 ### Strawberry
 
 ```
 roaet: 9/10
 suki: 8/10
 ```
+
+> I wish it was colder so I could be 100% confused that it isn't melted strawberry icecream - roaet
 
 ## Rating Thoughts
 
